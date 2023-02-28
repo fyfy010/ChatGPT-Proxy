@@ -43,8 +43,8 @@ These options can be configured by setting environment variables using `-e KEY="
 
 ### 简单步骤
 
-1.克隆存储库
-2.检查是否安装了Pipenv。 如果没有，请运行“pip install pipenv -U”。
+1. 克隆存储库
+2. 检查是否安装了Pipenv。 如果没有，请运行“pip install pipenv -U”。
 3. 然后，在此目录中运行`pipenv update -d`，自动安装代理的要求。
 4. 在根目录下运行`pipenv run proxy`，尽情享受吧！ Uvicorn 将为 API 服务提供高性能的 HTTP 服务器。
 
