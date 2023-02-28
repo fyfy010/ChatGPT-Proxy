@@ -59,7 +59,7 @@ These options can be configured by setting environment variables using `-e KEY="
 | `GPT_HOST` | `0.0.0.0` | `127.0.0.1` | 服务器的主机名。 |
 | `GPT_PORT` | `5000` | `8080` | 服务器的端口。 |
 
-文件2修改
+proxy2.py修改说明
 对 chat.openai.com 的所有请求使用 HTTPS 而不是 HTTP 来加密客户端和服务器之间交换的数据。
 
 使用环境变量来存储敏感信息，例如 API 密钥，而不是将它们硬编码在代码中。
