@@ -38,7 +38,7 @@ These options can be configured by setting environment variables using `-e KEY="
 
 ### 一键脚本
 
-- 使用 Docker：`curl https://raw.githubusercontent.com/acheong08/ChatGPT-Proxy/main/scripts/run-with-docker.sh | 嘘`
+- 使用 Docker：`curl https://raw.githubusercontent.com/acheong08/ChatGPT-Proxy/main/scripts/run-with-docker.sh | sh`
 
 
 ### 简单步骤
